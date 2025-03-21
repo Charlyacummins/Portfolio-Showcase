@@ -24,7 +24,7 @@
 - Built using **React Native**, with a focus on speed and usability.  
 - App is currently in development and not yet available in the App Store.
 
-### [Property Krowd Blog](https://blog.propertykrowd.com/)
+### [Property Krowd Blog] (https://blog.propertykrowd.com/)
 - Developed a dynamic blog with rich content management.
 - React, Next.js, and headless CMS for scalability.
 
