@@ -1,16 +1,16 @@
 # Charly Cummins – Developer Portfolio  
 
-🚀 **Full-Stack Developer | Music Producer | Problem Solver**  
-🔹 **Tech Stack:** React, Next.js, Supabase, TypeScript, Flutter, etc.  
-🔹 **Focused on:** Web & mobile applications, automation, and music tech.  
+ **Full-Stack Developer | Music Producer | Problem Solver**  
+ **Tech Stack:** React, Next.js, Supabase, TypeScript, Flutter, etc.  
+ **Focused on:** Web & mobile applications, automation, and music tech.  
 
-## 🔨 Currently Developing  
+##  Currently Developing  
 ### Full-Stack Mobile Contracting App  
 - Building a **React Native & Supabase** app for managing contractor invoices.  
 - Features **QuickBooks integration**, user authentication, and a streamlined UI.  
 - Designed for non-tech-savvy users with an intuitive experience.  
 
-## 🔥 Featured Projects  
+##  Featured Projects  
 ### [Infinite Wellness LA](https://www.infinitewellnessla.com/)
 - Built a modern website for an alternative medicine business.
 - Utilized Next.js, Sanity.io, and custom CMS integration.
@@ -32,6 +32,6 @@
 - Created a sleek, high-performance personal site.
 - Optimized for speed and accessibility.
 
-## 📫 Contact Me  
+##  Contact Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/charles-cummins-8a976a186/)  
 📧 Email: charlyacummins@gmail.com  
