@@ -19,7 +19,7 @@
 - Created a content-rich website for a boatyard, integrating Sanity.io for real-time updates.
 - Enhanced user experience with a clean and intuitive interface.
 
-### Lead Retrieval App (Front-End Development)
+### [Lead Retrieval App] (Front-End Development)
 - Developed the front-end for a **lead retrieval mobile app** for event professionals.  
 - Built using **React Native**, with a focus on speed and usability.  
 - App is currently in development and not yet available in the App Store.
